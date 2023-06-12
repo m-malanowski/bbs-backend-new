@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "private_policies",
+  "info": {
+    "singularName": "private-policy",
+    "pluralName": "private-policies",
+    "displayName": "Private Policy",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Policy": {
+      "type": "richtext"
+    }
+  }
+}
